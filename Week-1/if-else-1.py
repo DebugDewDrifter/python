@@ -6,5 +6,3 @@ elif answer == "No" or answer == "no":
  print("Nan you rude")
 else:
  print("What? i don't know what are you saying?")
-
-  
